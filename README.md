@@ -63,5 +63,5 @@ The analysis follows a structured pipeline:
 
 ## File Descriptions
 * `E-Commerce.ipynb`: Jupyter notebook containing all the codes of the project.
-* `data.csv`: CSV file containing the dataset
+* `data.csv.gz`: CSV file containing the dataset
 * `README.md`: This file, providing an overview of the project
